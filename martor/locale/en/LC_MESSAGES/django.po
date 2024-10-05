@@ -110,7 +110,7 @@ msgid "Insert Image Link"
 msgstr ""
 
 #: templates/martor/toolbar.html:45 templates/martor/toolbar.html:47
-msgid "Upload an Image"
+msgid "Upload File"
 msgstr ""
 
 #: templates/martor/toolbar.html:49
